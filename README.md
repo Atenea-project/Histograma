@@ -7,3 +7,7 @@ https://drive.google.com/file/d/1KVZvys5gDq9gZr5x-YKutf2anY9gaH4k/view?usp=shari
 
 
 **Se tiene que abrir en Google colab**
+
+Un video guía de como usar los cuadernillos lo puedes encontrar en:
+
+https://youtu.be/IxAR8lZCkrA
