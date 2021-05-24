@@ -3,7 +3,7 @@ En este repositorio veremos como construir y usar un histograma.
 
 Una versión ejecutable del código se encuentra disponible en el siguiente vinculo.
 
-https://drive.google.com/file/d/1IvbDT_ATXZ55nrouGUpua12Znc1O3WYK/view?usp=sharing
+https://colab.research.google.com/drive/1mmGJRdHFfzCZlZ_lxdznXI8ov6gHGE_g?usp=sharing
 
 
 **Se tiene que abrir en Google colab**
